@@ -1,4 +1,4 @@
-# lindseyontop's dotfiles
+# Lindsey's Dotfiles
 
 ![alt text](https://github.com/lindseyontop/dotfiles/blob/master/.stuff/desktop.png)
 
@@ -13,8 +13,9 @@
 |Compositor|picom|
 |Text Editor|Vim|
 |Browser|Firexfox|
-|Music Player|Spotify with spicetify (theme from spicetify-themes)|
+|Music Player|Spotify with spicetify|
 |Application Launcher|Rofi|
+| Color Scheme Gen | Pywal |
 
 # Credits and other
 
@@ -22,4 +23,10 @@
 |:--------:|:----:|
 |Polybar Theme| [Theme 11](https://github.com/adi1090x/polybar-themes) |
 |Spicetify Theme | [Lovelace](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Lovelace) |
-|Pfetch | [here](https://gitlab.com/Tanish2002/dot-files/-/blob/master/bin/bin/pfetch) |
+|Pfetch | [Here:](https://gitlab.com/Tanish2002/dot-files/-/blob/master/bin/bin/pfetch) |
+|Zsh Theme| `wedisagree` |
+
+# Installation
+Clone the repository
+`git clone https://github.com/lindseyontop/dotfiles.git`
+Then copy the files to the right directories.
