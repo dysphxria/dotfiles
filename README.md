@@ -1,0 +1,3 @@
+# dotfiles
+Bspwm rice dotfiles
+
