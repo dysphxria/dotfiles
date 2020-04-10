@@ -12,7 +12,7 @@
 |Shell|oh-my-zsh|
 |Compositor|picom|
 |Text Editor|Vim|
-|Browser|Firexfox|
+|Browser|Firefox|
 |Music Player|Spotify with spicetify|
 |Application Launcher|Rofi|
 | Color Scheme Gen | Pywal |
@@ -30,3 +30,6 @@
 Clone the repository
 `git clone https://github.com/lindseyontop/dotfiles.git`
 Then copy the files to the right directories.
+# Wallpaper
+
+(https://github.com/lindseyontop/dotfiles/blob/master/.stuff/0lkuh09.jpg)
