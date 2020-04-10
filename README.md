@@ -17,7 +17,7 @@
 |Application Launcher|Rofi|
 | Color Scheme Gen | Pywal |
 
-# Credits and other
+# Credits
 
 | Category | Name |
 |:--------:|:----:|
