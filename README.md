@@ -32,4 +32,4 @@ Clone the repository
 Then copy the files to the right directories.
 # Wallpaper
 
-(https://github.com/lindseyontop/dotfiles/blob/master/.stuff/0lkuh09.jpg)
+![alt text](https://github.com/lindseyontop/dotfiles/blob/master/.stuff/0lkuh09.jpg)
