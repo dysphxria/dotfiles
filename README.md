@@ -25,7 +25,7 @@
 |Polybar Theme| [Theme 11](https://github.com/adi1090x/polybar-themes) |
 |Spicetify Theme | [Lovelace](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Lovelace) |
 |Pfetch | [Here](https://gitlab.com/Tanish2002/dot-files/-/blob/master/bin/bin/pfetch) |
-|Zsh Theme| `wedisagree` |
+|Zsh Theme| [wedisagree](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/wedisagree.zsh-theme) |
 | Firefox Theme | [minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox) |
 | Firefox Newtab | [nighttab](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
 
