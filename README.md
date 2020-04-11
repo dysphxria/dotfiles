@@ -8,7 +8,7 @@
 |:--------:|:----:|
 |WM| bspwm |
 |Bar|Polybar|
-|Terminal|kitty|
+|Terminal|urxvt|
 |Shell|oh-my-zsh|
 |Compositor|picom|
 |Text Editor|Vim|
