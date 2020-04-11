@@ -23,7 +23,7 @@
 |:--------:|:----:|
 |Polybar Theme| [Theme 11](https://github.com/adi1090x/polybar-themes) |
 |Spicetify Theme | [Lovelace](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Lovelace) |
-|Pfetch | [Here:](https://gitlab.com/Tanish2002/dot-files/-/blob/master/bin/bin/pfetch) |
+|Pfetch | [Here](https://gitlab.com/Tanish2002/dot-files/-/blob/master/bin/bin/pfetch) |
 |Zsh Theme| `wedisagree` |
 
 # Installation
