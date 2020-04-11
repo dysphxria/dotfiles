@@ -10,7 +10,7 @@ URxvt.iso14755: false
 URxvt.scrollBar: false
 URxvt.internalBorder:  40
 URxvt*font: xft:Hack Nerd Font Mono:size=10, xft:M+ 1c
-URxvt.cursorBlink: True
+URxvt.cursorBlink: False
 
 !ROFI SETUP
 rofi.hide-scrollbar: true
