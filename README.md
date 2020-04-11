@@ -32,9 +32,6 @@
 # Firefox
 To rice firefox im using `minimal-function-fox` (linked above!)
 For the newtab im using `nighttab` (also linked above!)
-
-# Install Instructions
-
 * Make sure that you have enabled the **userChrome** option
   1. Go to the address `about:config` in Firefox
   2. Search for `toolkit.legacyUserProfileCustomizations.stylesheets`
