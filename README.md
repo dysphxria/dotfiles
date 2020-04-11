@@ -16,6 +16,7 @@
 |Music Player|Spotify with spicetify|
 |Application Launcher|Rofi|
 | Color Scheme Gen | Pywal |
+| Music Visualizer | cava |
 
 # Credits
 
