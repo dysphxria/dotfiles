@@ -17,6 +17,7 @@
 |Application Launcher|Rofi|
 | Color Scheme Gen | Pywal |
 | Music Visualizer | cava |
+| Clock | tty-clock |
 
 # Credits
 
