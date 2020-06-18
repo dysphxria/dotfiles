@@ -1,0 +1,64 @@
+
+!Copy paste bindings
+URxvt.keysym.Shift-Control-V: eval:paste_clipboard
+URxvt.keysym.Shift-Control-C: eval:selection_to_clipboard
+URxvt.keysym.Control-Meta-C: builtin-string: 
+URxvt.keysym.Control-Meta-V: builtin-string: 
+URxvt.iso14755: false
+
+!General settings
+URxvt.scrollBar: false
+URxvt.internalBorder:  40
+URxvt*font: xft:UbuntuMono Nerd Font:size=14, xft:M+ 1c
+URxvt.cursorBlink: False
+urxvt*transparent: true
+urxvt*shading: 30
+st.alpha: 191
+
+!ROFI SETUP
+rofi.hide-scrollbar: true
+
+!COLORSCHMES
+! special
+*.foreground:   #ffffff
+*.background:  #1d1f21
+
+*.solid-background: #1d1f21
+*.cursorColor:  #ffffff
+
+*.highlight:    #fb3d66
+
+! black
+*.color0:       #051519
+*.color8:       #323b3e
+
+! red
+*.color1:       #f8818e
+*.color9:       #fb3d66
+
+! green
+*.color2:       #7b9679
+*.color10:      #6d8c63
+
+! yellow
+*.color3:       #bf946b
+*.color11:      #e4cd7b
+
+! blue
+*.color4:       #8b9eb2
+*.color12:      #b0ecee
+
+! magenta
+*.color5:       #796e7f
+*.color13:      #cdafd9
+
+! cyan
+*.color6:       #7b8e93
+*.color14:      #556468
+
+! white
+*.color7:       #b3bec1
+*.color15:      #f7f8f8
+
+
+
