@@ -1,6 +1,6 @@
 # bpswm:clean
 
-[alt text](https://github.com/lindseyontop/dotfiles/blob/master/bspwm:clean/.stuff/clean.png)
+![alt text](https://github.com/lindseyontop/dotfiles/blob/master/bspwm:clean/.stuff/clean.png)
 
 # Applications
 
@@ -15,7 +15,7 @@
 |Application Launcher|rofi|
 
 # Wallpaper
-[alt text](https://github.com/lindseyontop/dotfiles/blob/master/bspwm:clean/.config/wall.png)
+![alt text](https://github.com/lindseyontop/dotfiles/blob/master/bspwm:clean/.config/wall.png)
 i also have a script to set wallpapers in `./local/bin`.
 You can set a wallpaper with `setbg /path/to/image`, or if you give it a directory with images, it will choose a random image. Make sure to edit the line `setbg .wallpapers` in `.config/bspwm/bspwmrc` to your own folder, or if you dont want the functionality you can remove the line enitrely.
 
