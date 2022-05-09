@@ -18,6 +18,6 @@ https://user-images.githubusercontent.com/48374811/167512146-ea1e1439-c13e-4608-
 ### For the wallpaper, i used https://github.com/catsout/wallpaper-engine-kde-plugin . Theres probably another way to use a .mp4 file as a wallpaper, but this is what i used.
 
 ## KDE Theme: 
-### https://store.kde.org/p/1633675
+### Nordic Darker https://store.kde.org/p/1633675
 
 #### done! if this doesnt work please tell me because i've never riced kde plasma before, so i don't really know what files to upload. Have a nice day!
