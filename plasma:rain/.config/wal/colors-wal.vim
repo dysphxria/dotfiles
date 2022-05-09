@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/dysphxria/.local/share/Steam/steamapps/workshop/content/431960/969834539/preview.jpg"
+let background = "#0F120D"
+let foreground = "#c3c2c6"
+let cursor     = "#c3c2c6"
+
+" Colors
+let color0  = "#0F120D"
+let color1  = "#4A5333"
+let color2  = "#504E4E"
+let color3  = "#696669"
+let color4  = "#82816D"
+let color5  = "#797585"
+let color6  = "#837C8A"
+let color7  = "#c3c2c6"
+let color8  = "#88878a"
+let color9  = "#4A5333"
+let color10 = "#504E4E"
+let color11 = "#696669"
+let color12 = "#82816D"
+let color13 = "#797585"
+let color14 = "#837C8A"
+let color15 = "#c3c2c6"

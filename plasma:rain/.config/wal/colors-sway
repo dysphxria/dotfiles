@@ -1,0 +1,21 @@
+set $wallpaper /home/dysphxria/.local/share/Steam/steamapps/workshop/content/431960/969834539/preview.jpg
+
+set $background #0F120D
+set $foreground #c3c2c6
+
+set $color0 #0F120D
+set $color1 #4A5333
+set $color2 #504E4E
+set $color3 #696669
+set $color4 #82816D
+set $color5 #797585
+set $color6 #837C8A
+set $color7 #c3c2c6
+set $color8 #88878a
+set $color9 #4A5333
+set $color10 #504E4E
+set $color11 #696669
+set $color12 #82816D
+set $color13 #797585
+set $color14 #837C8A
+set $color15 #c3c2c6
